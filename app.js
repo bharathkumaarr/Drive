@@ -1,4 +1,4 @@
-newconst express = require('express');
+const express = require('express');
 const userRouter = require('./routes/user.routes');
 const dotenv = require('dotenv')
 
